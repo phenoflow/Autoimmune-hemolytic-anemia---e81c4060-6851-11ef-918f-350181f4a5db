@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/haemolytic-autoimmune-hemolytic-anemia---secondary.py
+inputModule3:
+  class: File
+  path: python/autoimmune-hemolytic-anemia-evans---secondary.py
+inputModule4:
+  class: File
+  path: python/mixed-autoimmune-hemolytic-anemia---secondary.py
+inputModule5:
+  class: File
+  path: python/autoimmune-hemolytic-anemia-colitis---secondary.py
+inputModule6:
+  class: File
+  path: python/rheumatic-autoimmune-hemolytic-anemia---secondary.py
+inputModule7:
+  class: File
+  path: python/autoimmune-hemolytic-anemia-inflammatory---secondary.py
+inputModule8:
+  class: File
+  path: python/autoimmune-hemolytic-anemia-neoplasm---secondary.py
+inputModule9:
+  class: File
+  path: python/autoimmune-hemolytic-anemia-syphilis---secondary.py
+inputModule10:
+  class: File
+  path: python/autoimmune-hemolytic-anemia-class---secondary.py
+inputModule11:
+  class: File
+  path: python/autoimmune-hemolytic-anemia-coldtype---secondary.py
+inputModule12:
+  class: File
+  path: python/postviral-autoimmune-hemolytic-anemia---secondary.py
+inputModule13:
+  class: File
+  path: python/lymphoproliferative-autoimmune-hemolytic-anemia---secondary.py
+inputModule14:
+  class: File
+  path: python/autoimmune-hemolytic-anemia-erythematosus---secondary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
